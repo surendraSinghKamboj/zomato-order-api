@@ -9,7 +9,7 @@
    "start": "node index.js"
    
   },
-  "author": "",
+  "author": "Nancy Kaur",
   "license": "ISC",
   "description": "",
   "dependencies": {
